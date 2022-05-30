@@ -1,7 +1,9 @@
 [tool.poetry]
 name = "jpf"
 version = "0.1.0"
-description = "Pretty format all you json files at once in place with a single word"
+description = "Pretty format all you json files at once in place with three characters"
+repository = "https://github.com/fxwiegand/jpf"
+readme = "README.md"
 authors = ["fxwiegand <fxwiegand@wgdnet.de>"]
 license = "MIT"
 
