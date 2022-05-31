@@ -2,6 +2,7 @@
 
 ![License](https://img.shields.io/github/license/fxwiegand/jpf)
 ![PyPI](https://img.shields.io/pypi/v/jpf)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/jpf)
 
 
 Pretty format all your json files at once in place with three characters
