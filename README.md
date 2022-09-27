@@ -21,11 +21,12 @@ Since the command is recursive `jpf` should be used with caution.
 
 `jpf` comes with some options to further customise the formatting of your files:
 
-| argument      | short | default | function                                |
-|---------------|-------|---------|-----------------------------------------|
-| `--help`      | `-h`  |         | show this help message and exit         |
-| `--indent`    | `-i`  | 4       | format files with that indent level     |
-| `--sort-keys` | `-s`  | False   | decide whether jpf should sort the keys |
+| argument      | short | default | function                                              |
+|---------------|-------|---------|-------------------------------------------------------|
+| `--help`      | `-h`  |         | show this help message and exit                       |
+| `--indent`    | `-i`  | 4       | format files with that indent level                   |
+| `--sort-keys` | `-s`  | False   | decide whether jpf should sort the keys               |
+| `--files`     | `-f`  |         | format file under given path unaffected by its suffix |
 
 ## Installation
 
