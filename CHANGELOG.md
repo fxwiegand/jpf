@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.3.0
+
+### Changes
+- Add `--file` option to format files without a `.json` suffix
+
 ## v0.2.1
 
 ### Changes
