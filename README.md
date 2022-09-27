@@ -14,7 +14,7 @@ Pretty format all your json files at once in place with three characters
 
 ```jpf```
 
-Just typing in the three magic characters will pretty format all your `*.json` files in the current folder and all subfolders.
+Just typing in the three magic characters will pretty format all your `*.json` files in the current folder and all subfolders. Using the `--file` option specific files with other suffixes can be formatted as well. 
 Since the command is recursive `jpf` should be used with caution.
 
 ## Options
